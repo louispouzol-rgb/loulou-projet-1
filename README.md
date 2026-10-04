@@ -77,3 +77,7 @@ a l'horizontale et rowspan a la vertical ex rowspan="2" Clement
   <label for="mdp">Mots de passe:</label>
   <input type="pasword" id="mdp" name="mdp"/>
 </form>
+<p> la ça marche pas mais tu peux saisir du texte donc c"est form pour fomulaire
+puis<label for=nom emai et mdp>Nom Email ou Mots de passe
+puis <input type soit texte soit email soit password 
+ensuit id nom email ou mdp puis name et tout </p>
