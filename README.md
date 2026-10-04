@@ -65,3 +65,15 @@ tbodytr td<br/>
 on peut utiliser colsan pour  q'un truc prenne plus se place
 a l'horizontale et rowspan a la vertical ex rowspan="2" Clement
 <br/> et caption avant thead au final pour le nom du tableau</p>
+
+<h1>les formulaire </h1>
+<form action="/envoyer" methode="post">
+ <label for="nom">Nom :</label>
+ <input type="text" id="nom name="nom" placerholder="entrer un nom" required/>
+  <br/>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" equired/>
+  <br/>
+  <label for="mdp">Mots de passe:</label>
+  <input type="pasword" id="mdp" name="mdp"/>
+</form>
