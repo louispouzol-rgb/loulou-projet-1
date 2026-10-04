@@ -44,6 +44,7 @@
 </ul>
 <h1> les tableau en html</h1>
 <table>
+  <caption>un mec</caption>
   <thead><tr>
    <th>Nom</th>
    <th>Age</th>
@@ -62,4 +63,5 @@ td pour la deuxieme thead pour le debut (les truc important)
 tbody pour le milieu don ça fait table thead tr th 
 tbodytr td<br/>
 on peut utiliser colsan pour  q'un truc prenne plus se place
-a l'horizontale et rowspan a la vertical ex rowspan="2" Clement</p>
+a l'horizontale et rowspan a la vertical ex rowspan="2" Clement
+<br/> et caption avant thead au final pour le nom du tableau</p>
