@@ -26,3 +26,19 @@
   <dt>html</dt>
   <dd> beaucoup a apprendre</dd>
 </dl>
+<p> on peut faire plusieur liste a la fois exemple</p>
+<ul>
+  <li>
+    fruit
+    <ul>
+      <li>poire</li>
+      <li>peche</li>
+    </ul>
+  </li>
+  <li>viande
+    <ul>
+      <li>beuf</li>
+      <li>poulet</li>
+    </ul>
+  </li>
+</ul>
