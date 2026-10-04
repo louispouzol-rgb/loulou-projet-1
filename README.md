@@ -42,3 +42,24 @@
     </ul>
   </li>
 </ul>
+<h1> les tableau en html</h1>
+<table>
+  <thead><tr>
+   <th>Nom</th>
+   <th>Age</th>
+   <th>metier</th>
+  </thead></tr>
+ <tbody><tr>
+   <td>Clement</td>
+   <td>25</td>
+   <td>codeur</td>
+ </tbody></tr<>
+
+</table>
+
+<p> donc pour les tableau on utilise table tr pour une colonne
+td pour la deuxieme thead pour le debut (les truc important)
+tbody pour le milieu don ça fait table thead tr th 
+tbodytr td<br/>
+on peut utiliser colsan pour  q'un truc prenne plus se place
+a l'horizontale et rowspan a la vertical ex rowspan="2" Clement</p>
