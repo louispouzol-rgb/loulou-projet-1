@@ -92,3 +92,12 @@ ensuit id nom email ou mdp puis name et tout revient ici au pire </p>
 <br/><em> em qui écrit en ittalique </em>
 <br/><mark>mark qui surligne le texte</mark>
 <br/> peut les combiner comme ceci <mark><strong>voila</strong></mark></p>
+
+<h1> l’audio et autre</h1>
+
+<audio controls>
+   <source src =«audio/son.mp3
+     type=«audio/mpeg» />
+<p> je fais pas ça marche pas il y a les vidéo aussi</p>
+
+
