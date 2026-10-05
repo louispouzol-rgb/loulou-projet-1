@@ -81,3 +81,14 @@ a l'horizontale et rowspan a la vertical ex rowspan="2" Clement
 puis label for=nom emai et mdp>Nom Email ou Mots de passe
 puis input type soit texte soit email soit password 
 ensuit id nom email ou mdp puis name et tout revient ici au pire </p>
+
+<h1>les ecritures </h1>
+
+<p>alors pour commencer les saut de ligne on utilise br 
+<br/> ou p qui crée des espace en haut et en bas ou encore hr 
+<br/> qui crée un demarcation</p>
+<p>ensuite pour les écriture particulière on peut utiliser
+<br/><strong> strong qui écrit en gras </strong>
+<br/><em> em qui écrit en ittalique </em>
+<br/><mark>mark qui surligne le texte</mark>
+<br/> peut les combiner comme ceci <mark><strong>voila</strong></mark></p>
