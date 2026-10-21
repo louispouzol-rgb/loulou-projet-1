@@ -1,6 +1,6 @@
-    <button style="padding: 10px; background-color: green; color: white; border: none;">
-        Cliquez ici
-    </button>
+<button style="padding: 10px; background-color: green; color: white; border: none;">
+    Cliquez ici
+</button>
 
 
 
